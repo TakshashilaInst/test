@@ -1,0 +1,40 @@
+---
+title: "The AI Diffusion Framework Was Repealed. What Does This Mean For India?"
+author:
+  - name: Ashwin Prasad
+  - name: Bharath Reddy
+  - name: Rijesh Panicker
+date: "2025-07-04"
+categories:
+  - HTG
+  - AI
+  - Regulation
+  - National Interest
+  - Geopolitics
+---
+
+The [AI diffusion framework](https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion), passed by the Biden administration to maintain US leadership in AI, was [repealed](https://www.bis.gov/press-release/department-commerce-rescinds-biden-era-artificial-intelligence-diffusion-rule-strengthens-chip-related) by the Trump administration shortly before it was to come into effect. [The AI diffusion framework was enacted in January 2025 and repealed in May 2025]{.aside}The framework's repeal is a positive development as it would have been detrimental to India’s strategic autonomy and negatively impacted the innovation ecosystem. However, we are in an era of export controls on chips, and this has implications for the government’s priorities.
+
+Since 2015, the amount of compute used in large-scale models has been [doubling roughly every 10 months](https://arxiv.org/pdf/2202.05924) and is 10 to 100 times higher than deep learning models. The quantum of compute used during training and inference is indicative of AI capabilities, i.e. the more chips used for training and inference, the more capable the models. Advanced chips are produced via an [extremely concentrated supply chain](https://arxiv.org/abs/2402.08797), and this concentration creates a potential chokepoint that the U.S. is attempting to leverage to control AI diffusion.
+
+The repealed framework cleaved the world into three tiers based on levels of trust that determine access and security requirements for importing advanced AI chips and certain AI model weights. The first tier included the US and 18 trusted allies like the UK and Japan, which had unrestricted access. The second included controlled-access countries like India, and the third included arms-embargoed countries like China and Russia, for whom access was restricted entirely.
+
+## Why The Diffusion Framework Was A Bad Idea
+
+The order to rescind the framework clearly states two broad reasons for doing so: “These new requirements would have stifled American innovation and saddled companies with burdensome new regulatory requirements. The AI Diffusion Rule also would have undermined U.S. diplomatic relations with dozens of countries by downgrading them to second-tier status.”
+
+During the Biden years, the “small yard, high fence” approach was meant to protect sensitive technologies with a high fence of trade and investment controls. However, this has expanded so much in scale and scope that the yard no longer remains small, and the effectiveness of the fence is also questionable. Both the Bureau of Industry and Security and the industry would find the filings, authorisations, licenses, and waivers required to comply with the regulations extremely burdensome. Nvidia, which would have been seriously impacted, had [criticised the rule](https://blogs.nvidia.com/blog/ai-policy/), claiming it was cloaked as an “anti-China” measure but would harm US competitiveness and innovation without enhancing security.
+
+More importantly, the diffusion framework would also have frayed diplomatic relations with tier 2 (and possibly even tier 1) countries, which the export controls treat as followers and not partners. Many countries would be forced to consider moving closer to either the US or Chinese orbits, reminiscent of Cold War-esque blocs.
+
+## Implications for India
+
+India was unfavourably placed in tier 2 of the AI Diffusion Framework. This placement meant that there were some thresholds on the number of AI chips that India could procure. However, the hard caps on the number of chips were far higher than the current demand in the Indian compute ecosystem. In other words, even under the framework, India could have gotten all the chips it wanted in the next few years.
+
+However, the framework had many second-order effects on Indian prerogatives. It would have undermined India’s goal of maintaining a level of strategic autonomy in its technology ecosystem. The possibility of Indian Global Capability Centres (GCCs) being denied access to advanced AI chips as country thresholds were reached or having to seek authorisations for purchasing chips is not an ideal situation. This could have led to tier 1 countries becoming the favoured destination for building cutting-edge technologies over tier 2 countries. These constraints would have led to a loss of talent and investment from India to tier 1 countries.
+
+Given these realities, the government’s emphasis on building sovereign compute via GPU procurement warrants reconsideration. Indian companies can now procure all the chips they need, and the government could focus on other priorities. Union Minister of Electronics and IT Ashwani Vaishnaw’s [recent comments](https://timesofindia.indiatimes.com/technology/tech-news/indias-own-gpu-could-arrive-in-3-5-years-18000-ai-servers-to-go-live-soon-says-ashwini-vaishnaw/articleshow/117958923.cms) about Indian efforts to develop indigenous GPUs by 2029 could be seen as a response to US attempts at maximising control of the technology.
+
+While the framework itself has been rescinded, export controls against tier 3 countries (primarily targeted at China) have been strengthened. New guidance warns about the use of Huawei chips, restrictions on data centres against training Chinese AI models, and due diligence measures to ensure export controls are not circumvented. It is clear that this is an era of export controls for AI chips.
+
+The geopolitical climate will undoubtedly continue to dictate the ebb and flow of AI chip access. In its pursuit of strategic autonomy, India aims to develop a baseline capability in manufacturing advanced semiconductor chips, capitalising on its strengths in the design phase of the chip value chain.
